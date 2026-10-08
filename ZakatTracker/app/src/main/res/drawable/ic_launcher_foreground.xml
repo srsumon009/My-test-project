@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Gold crescent-and-coin monogram, centered in the adaptive-icon safe zone. -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M54,27 C66.1,27 76,36.9 76,49 C76,61.1 66.1,71 54,71 C49.9,71 46.1,69.9 42.9,68 C49.1,66.1 53.7,60.4 53.7,53.6 C53.7,46.8 49.1,41.1 42.9,39.2 C46.1,37.3 49.9,36.2 54,36.2 L54,27 Z" />
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M54,78 L57.2,85.6 L65.4,86.3 L59.2,91.8 L61.1,99.8 L54,95.6 L46.9,99.8 L48.8,91.8 L42.6,86.3 L50.8,85.6 Z" />
+</vector>
